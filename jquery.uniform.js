@@ -52,7 +52,7 @@ Enjoy!
 			radioClass: "radio",
 			resetDefaultHtml: "Reset",
 			resetSelector: false,  // We'll use our own function when you don't specify one
-			selectAutoWidth: false,
+			selectAutoWidth: true,
 			selectClass: "selector",
 			submitDefaultHtml: "Submit",  // Only text allowed
 			useID: true
